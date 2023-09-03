@@ -1,7 +1,8 @@
 # Satisfacao_consumidor_aneel
 Indice de satisfação consumidor Aneel - Analise de Dados e Predição de reclamações durante os proximos 12 meses
 
-✅ IMPORTAÇÕES ESTADO DE SANTA CATARINA
+✅ INDICE SATISFAÇÃO CONSUMIDOR ANEEL
+
 A análise de satisfação do consumidor que liga para a Aneel desempenha um papel crucial na avaliação da qualidade dos serviços prestados pelas empresas de energia elétrica. Por meio do registro e análise das reclamações e consultas dos consumidores, a Aneel pode obter insights valiosos sobre as preocupações e necessidades da população em relação ao fornecimento de energia. Essa análise permite identificar áreas problemáticas, tendências de insatisfação e questões recorrentes. Além disso, ao entender as principais fontes de insatisfação, a Aneel está em melhor posição para implementar regulamentações e políticas que visam melhorar a qualidade do serviço e proteger os direitos dos consumidores. Em última análise, a análise de satisfação do consumidor desempenha um papel essencial na promoção de um setor de energia elétrica mais eficiente e satisfatório para todos os envolvidos.
 
 📖 Informações
