@@ -1,6 +1,3 @@
-# Satisfacao_consumidor_aneel
-Indice de satisfação consumidor Aneel - Analise de Dados e Predição de reclamações durante os proximos 12 meses
-
 # ✅ INDICE SATISFAÇÃO CONSUMIDOR ANEEL
 
 A análise de satisfação do consumidor que liga para a Aneel desempenha um papel crucial na avaliação da qualidade dos serviços prestados pelas empresas de energia elétrica. Por meio do registro e análise das reclamações e consultas dos consumidores, a Aneel pode obter insights valiosos sobre as preocupações e necessidades da população em relação ao fornecimento de energia.
@@ -25,7 +22,6 @@ Data Geração Conjunto de Dados, SigAgente, CNPJ Agente, Sigla Estado, Codigo M
 
 Ano_pesquisa, concessionaria, estado, tipo, ano_privatizacao, unidades_consumidoras, indicador_qualidade, indicador_satisfacao, indicador_fidelidade, indicador_valor, indicador_confianca e media_indicadores.
 
+# 💪 Desafios da Análise
 
-
-
-Essa análise identificou as áreas problemáticas, tendências de insatisfação e questões recorrentes. Além disso, será apresentado um panorama geral das ligações a ouvidoria, as principais fontes de insatisfação, por estados e regiões, uma previsão de registro de ligações por reclamações e os índices de satisfação de clientes.
+Essa análise identificou as áreas problemáticas, tendências de insatisfação e questões recorrentes. Além disso, será apresentado um panorama geral das ligações a ouvidoria, as principais fontes de insatisfação, por estados e regiões, uma previsão de registro de ligações por reclamações nos próximos 24 meses e os índices de satisfação de clientes.
