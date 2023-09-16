@@ -11,9 +11,14 @@ A Agência Nacional de Energia Elétrica (ANEEL) é a entidade reguladora respon
 
 # 🌐 FONTE
 
-A fonte dos dados foi customizada através do site [http://comexstat.mdic.gov.br/pt/home](https://dadosabertos.aneel.gov.br/dataset/ouvidoria-setorial-aneel/resource/927c458a-760c-470f-9967-f9f5e8809095), onde você pode selecionar os dados selecionando os anos de registro de ligações a ouvidoria da Aneel.
+A fonte dos dados foi captada no site (https://dadosabertos.aneel.gov.br/dataset/ouvidoria-setorial-aneel/resource/927c458a-760c-470f-9967-f9f5e8809095), onde você pode selecionar os dados por ano selecionando os anos de registro de ligações a ouvidoria da Aneel.
 
 # 💾 DADOS
 
+# Ligações Ouvidoria
 
+Data Geração Conjunto de Dados, SigAgente, CNPJ Agente, Sigla Estado, Codigo Municipio, Nome Municipio, Nome Categoria, Subcategoria Tipologia, Decisão da Reclamação, Situação, Data Criação, Quantidade Reclamações/dia.
 
+# Avaliação Consumidores ANEEL
+
+Ano_pesquisa, concessionaria, estado, tipo, ano_privatizacao, unidades_consumidoras, indicador_qualidade, indicador_satisfacao, indicador_fidelidade, indicador_valor, indicador_confianca e media_indicadores.
