@@ -3,7 +3,9 @@ Indice de satisfação consumidor Aneel - Analise de Dados e Predição de recla
 
 # ✅ INDICE SATISFAÇÃO CONSUMIDOR ANEEL
 
-A análise de satisfação do consumidor que liga para a Aneel desempenha um papel crucial na avaliação da qualidade dos serviços prestados pelas empresas de energia elétrica. Por meio do registro e análise das reclamações e consultas dos consumidores, a Aneel pode obter insights valiosos sobre as preocupações e necessidades da população em relação ao fornecimento de energia. Essa análise permite identificar áreas problemáticas, tendências de insatisfação e questões recorrentes. Além disso, ao entender as principais fontes de insatisfação, a Aneel está em melhor posição para implementar regulamentações e políticas que visam melhorar a qualidade do serviço e proteger os direitos dos consumidores. Em última análise, a análise de satisfação do consumidor desempenha um papel essencial na promoção de um setor de energia elétrica mais eficiente e satisfatório para todos os envolvidos.
+A análise de satisfação do consumidor que liga para a Aneel desempenha um papel crucial na avaliação da qualidade dos serviços prestados pelas empresas de energia elétrica. Por meio do registro e análise das reclamações e consultas dos consumidores, a Aneel pode obter insights valiosos sobre as preocupações e necessidades da população em relação ao fornecimento de energia.
+
+As pesquisas de satisfação do cliente são uma ótima maneira de obter feedback direto dos clientes sobre sua experiência com sua empresa. Pois, possibilita que os clientes avaliem sua satisfação em uma escala de 1 a 5 com uma variedade de questões, como a qualidade do produto ou serviço, a cortesia dos funcionários e a facilidade de uso do site da Web.
 
 # 📖 INFORMAÇÕES
 
@@ -22,3 +24,8 @@ Data Geração Conjunto de Dados, SigAgente, CNPJ Agente, Sigla Estado, Codigo M
 # Avaliação Consumidores ANEEL
 
 Ano_pesquisa, concessionaria, estado, tipo, ano_privatizacao, unidades_consumidoras, indicador_qualidade, indicador_satisfacao, indicador_fidelidade, indicador_valor, indicador_confianca e media_indicadores.
+
+
+
+
+Essa análise identificou as áreas problemáticas, tendências de insatisfação e questões recorrentes. Além disso, será apresentado um panorama geral das ligações a ouvidoria, as principais fontes de insatisfação, por estados e regiões, uma previsão de registro de ligações por reclamações e os índices de satisfação de clientes.
