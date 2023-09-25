@@ -24,4 +24,18 @@ Ano_pesquisa, concessionaria, estado, tipo, ano_privatizacao, unidades_consumido
 
 # 💪 DESAFIOS DA ANÁLISE
 
-Essa análise identificou as áreas problemáticas, tendências de insatisfação e questões recorrentes. Além disso, será apresentado um panorama geral das ligações a ouvidoria, as principais fontes de insatisfação, por estados e regiões, uma previsão de registro de ligações por reclamações nos próximos 24 meses e os índices de satisfação de clientes.
+Essa análise identificou os seguintes temas
+
+- Tivemos eventos históricos de apagoes em 2015 e 2018, esses eventos refletiram em reclamações na ANEEL?
+
+- Quais os principais motivos de reclamações dos usuários a ANEEL? Quais foram os Estados que registraram mais reclamações? Qual foi a concessionária que obteve um maior número de reclamações? Quais as regiões que concentraram as reclamações?
+
+- Previsão, utilizando a Biblioteca Pycaret da quantidade de reclamações nos próximos 24 meses a fim de prever acoes que a propria ANEEL e concessionárias podem estar implementando para minimizar a quantidade de reclamações.
+
+- Quais são as correlações entre os indicadores, o ano da pesquisa, a quantidade de UCs e o tipo da concessionária (privada ou estatal)?
+
+- Os índices de qualidade, satisfação, fidelidade, valor e confiança são maiores em quais estados e regiões do país?
+
+- Os índices de qualidade, satisfação, fidelidade, valor e confiança são maiores para as concessionárias estatais ou privadas?
+
+- Os índices de qualidade, satisfação, fidelidade, valor e confiança vêm aumentando ou diminuindo ao longo dos anos?
