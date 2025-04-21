@@ -39,3 +39,7 @@ Essa análise identificou os seguintes temas
 - Os índices de qualidade, satisfação, fidelidade, valor e confiança são maiores para as concessionárias estatais ou privadas?
 
 - Os índices de qualidade, satisfação, fidelidade, valor e confiança vêm aumentando ou diminuindo ao longo dos anos?
+
+Voce pode verificar a apresentação do trabalho no link a seguir:
+
+https://www.youtube.com/live/79FX_twn_Qs?si=093ehv7WPCHU86TM
